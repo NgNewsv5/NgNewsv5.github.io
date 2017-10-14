@@ -6270,6 +6270,18 @@ body {
     height: auto !important;
   }
 }
+.cid-qy2KiIent4 {
+  background: #ffffff;
+}
+.cid-qy2KiIent4 .video-block {
+  margin: auto;
+  width: 100% !important;
+}
+@media (max-width: 768px) {
+  .cid-qy2KiIent4 .video-block {
+    width: 100% !important;
+  }
+}
 .cid-qtwWtveq2n {
   padding-top: 60px;
   padding-bottom: 45px;
